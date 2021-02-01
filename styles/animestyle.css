@@ -1,0 +1,98 @@
+:root {
+  font-size: 15px;
+}
+
+.container {
+  width: 90%;
+  margin: 0 auto;
+  background-color: #f0f0f0;
+}
+body {
+  background-color: #f0f0f0;
+}
+
+.navbar-brand {
+  color: #f0f0f0;
+  font-family: fantasy;
+}
+
+p {
+  color: #251c5e;
+  padding: 10px;
+  margin: 0;
+  font-size: smaller;
+}
+h5 {
+  background-color: #251c5e;
+  padding: 5px;
+  margin: 0;
+  text-align: center;
+  color: #f0f0f0;
+}
+
+.header-box {
+  background-color: #251c5e;
+  height: 60px;
+  width: 100%;
+}
+
+.form-control {
+  background-color: white;
+}
+footer {
+  height: 200px;
+  width: 100%;
+  background-color: #251c5e;
+}
+
+.imgspace {
+  margin-top: 40px;
+}
+img {
+  width: 100%;
+  padding-bottom: 2rem;
+}
+.framevideo {
+  margin-left: 100px;
+}
+
+.topics > section {
+  background: black;
+  width: 800px;
+  height: auto;
+}
+.topics > :first-child {
+  background: white;
+  width: 25%;
+  height: auto;
+}
+
+.d-flex {
+  display: flex;
+}
+.flex-column {
+  flex-direction: column;
+}
+.flex-wrap {
+  flex-wrap: wrap;
+}
+.flex-row {
+  flex-direction: row;
+}
+.justify-space-between {
+  justify-content: space-between;
+}
+
+.m-1 {
+  margin: 1rem;
+}
+.mx-1 {
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+.mt-1 {
+  margin-top: 1rem;
+}
+.mb-1 {
+  margin-bottom: 1rem;
+}
